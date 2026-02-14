@@ -1,32 +1,40 @@
-# Привет, я Илья! 👋
 
+# Привет, я Илья! 👋 
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app." />
+</p>
+
+### 👨‍🎓 Обо мне
 Студент **Минского государственного колледжа цифровых технологий**.  
-Учусь, кодю, расту. Пока не эксперт ни в одном языке — и это нормально. Главное — путь. 🚀
+Я не строю из себя сеньора — я учусь, ошибаюсь и становлюсь лучше каждый день. 🚀
+
+- 🧩 **Цель:** Найти "своё" в мире IT и перестать забывать закрывающие скобки.
+- ⚡ **Девиз:** Писать код с интересом, а не по шаблону.
 
 ---
 
-## 💻 Что изучаю:
-- 🌐 Frontend: HTML, CSS, JavaScript
-- 🐍 Python — учусь
-- 🔤 C++, C# — в процессе
-- 🧩 Цель? Пока просто учиться, пробовать и понимать, что интересно по-настоящему
-
-> Пока пишу не идеально — зато с интересом и желанием расти.  
-> Люблю чистый код, понятную логику и когда всё работает (ну или хотя бы пытается).
-
----
-
-## 🛠️ Инструменты и технологии:
-- VS Code — мой лучший друг 
-- Git & GitHub — версию контролирую
-- Figma — иногда рисую интерфейсы
+### 🛠 Стек технологий
+<p align="left">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
 
 ---
 
-## 📊 Моя статистика на GitHub
-![Статистика](https://github-readme-stats.vercel.app/api?username=IlyaSkorik&show_icons=true&theme=gruvbox)
+### 📊 Моя активность
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app" />
+  <img height="180em" src="https://github-readme-stats.vercel.app" />
+</p>
 
-![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaSkorik&layout=compact&theme=gruvbox)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com" />
+</p>
 
 ---
 
@@ -36,9 +44,3 @@
 - 📸 Instagram: [@ilyaskorik_official](https://www.instagram.com/ilyaskorik_official)
 
 > Пишите — всегда рад новым знакомствам, советам и проектам!
-
----
-
-> 🌱 Учусь каждый день.  
-> 💡 Верю, что код — это не только логика, но и творчество.  
-> ❤️ Спасибо, что заглянул на мою страничку!
