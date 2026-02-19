@@ -1,46 +1,45 @@
+# 🚀 Илья Скорик
 
-# Привет, я Илья! 👋 
+## 👨‍💻 О себе
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app." />
-</p>
+Студент МГКЦТ.  
+Изучаю разработку не ради галочки — мне реально интересно строить работающие системы.
 
-### 👨‍🎓 Обо мне
-Студент **Минского государственного колледжа цифровых технологий**.  
-Я не строю из себя сеньора — я учусь, ошибаюсь и становлюсь лучше каждый день. 🚀
+Мне важен не статус, а прогресс.  
+Каждый день — плюс одна строка кода, плюс одно понимание глубже.
 
-- 🧩 **Цель:** Найти "своё" в мире IT и перестать забывать закрывающие скобки.
-- ⚡ **Девиз:** Писать код с интересом, а не по шаблону.
-
----
-
-### 🛠 Стек технологий
-<p align="left">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</p>
+- 🚀 Развиваюсь в backend и AI
+- 🧠 Изучаю архитектуру и продуктовый подход
+- 🎯 Строю реальные проекты, а не просто учебные работы
+- 💎 Люблю чистый код и аккуратный интерфейс
 
 ---
 
-### 📊 Моя активность
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app" />
-  <img height="180em" src="https://github-readme-stats.vercel.app" />
-</p>
+## 🛠 Технологии
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com" />
-</p>
+### 💻 Основные
+- Python  
+- C++  
+- C#  
+
+### 🌐 Web
+- HTML5  
+- CSS3  
+- JavaScript 
+
+### 🧰 Инструменты
+- Git & GitHub  
+- VS Code  
 
 ---
 
-## 📫 Связь со мной:
-- 📧 Почта: [ilusanik16@gmail.com](mailto:ilusanik16@gmail.com)
-- 💬 Telegram: [@skorik_Ilya](https://t.me/skorik_Ilya)
-- 📸 Instagram: [@ilyaskorik_official](https://www.instagram.com/ilyaskorik_official)
+## 📫 Контакты
 
-> Пишите — всегда рад новым знакомствам, советам и проектам!
+- 💬 Telegram: https://t.me/skorik_Ilya  
+- 📸 Instagram: https://www.instagram.com/ilyaskorik_official  
+- 📧 Email: ilusanik16@gmail.com  
+
+---
+
+> Код — это не только логика.  
+> Это способ мышления и способ строить мир вокруг себя.
