@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/IlyaSkorik">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ilya+Skorik+%F0%9F%91%8B;Software+Engineer;Backend+%E2%80%A2+Python+%E2%80%A2+Flutter+%E2%80%A2+AI;Building+software+that+solves+real+problems" alt="typing banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Ilya+Skorik+%F0%9F%91%8B;Software+Engineer;Backend+%E2%80%A2+Python+%E2%80%A2+Flutter+%E2%80%A2+AI;Building+software+that+solves+real+problems" alt="typing banner"/>
 </a>
 
 <p>
@@ -15,7 +15,7 @@
 <br><br>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=IlyaSkorik&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="github stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaSkorik&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true" alt="top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaSkorik&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true&hide=html,css,cmake" alt="top languages"/>
 
 <br>
 
